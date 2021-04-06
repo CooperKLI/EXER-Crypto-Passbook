@@ -7,4 +7,5 @@
 
 ## Acknowledgement
 - Thanks Cooper
-   - Thanks Python
+- Free Software
+- Open Source
