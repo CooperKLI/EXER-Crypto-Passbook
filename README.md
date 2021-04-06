@@ -1,3 +1,6 @@
 # Passbook
-A encryption technology
-###### Use Python3 to run main.py
+**A encryption technology**
+
+## Getting Start
+- Python3
+- run main.py
