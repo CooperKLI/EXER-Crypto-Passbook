@@ -7,4 +7,4 @@
 
 ## Acknowledgement
 - Thanks Cooper
--    Thanks Python
+   - Thanks Python
