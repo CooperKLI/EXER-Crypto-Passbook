@@ -3,4 +3,4 @@
 
 ## Getting Start
 - Python3
-- run main.py
+- Run main.py
